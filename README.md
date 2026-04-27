@@ -35,31 +35,13 @@ It includes:
 ## Project Structure
 snp mini/
 └── Diabetes_project/
-    ├── Frontend/
-    │   ├── public/                # Static files
-    │   ├── src/                   # Main source code
-    │   │   ├── assets/            # Images, icons, styles
-    │   │   ├── components/        # Reusable UI components
-    │   │   ├── pages/             # Page-level components (forms, results)
-    │   │   ├── App.jsx            # Main React component
-    │   │   ├── main.jsx           # Entry point
-    │   │   └── styles.css         # Styling
-    │   ├── index.html             # Root HTML file
-    │   ├── package.json           # Dependencies & scripts
-    │   ├── package-lock.json      # Dependency lock file
-    │   └── vite.config.js         # Vite configuration
-    │
-    ├── Backend/ (if present)
-    │   ├── app.py                 # Main backend server
-    │   ├── model.pkl              # Trained ML model
-    │   ├── requirements.txt       # Python dependencies
-    │   └── utils.py               # Helper functions
-    │
-    ├── data/ (optional)           # Dataset used for training
-    ├── notebooks/ (optional)      # Jupyter notebooks for model building
-    ├── README.md                  # Project documentation
-    └── .gitignore                 # Ignored files
-
+├── Frontend/
+│ ├── src/
+│ ├── public/
+│ ├── package.json
+│ └── vite.config.js
+├── Backend/ (if present)
+└── README.md
 
 ---
 
