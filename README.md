@@ -33,6 +33,7 @@ It includes:
 ---
 
 ## Project Structure
+```plaintext
 snp mini/
 └── Diabetes_project/
     ├── Frontend/
@@ -42,6 +43,7 @@ snp mini/
     │   └── vite.config.js
     ├── Backend/
     └── README.md
+```
 
 ---
 
