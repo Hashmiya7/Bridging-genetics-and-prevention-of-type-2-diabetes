@@ -35,13 +35,13 @@ It includes:
 ## Project Structure
 snp mini/
 └── Diabetes_project/
-├── Frontend/
-│ ├── src/
-│ ├── public/
-│ ├── package.json
-│ └── vite.config.js
-├── Backend/ (if present)
-└── README.md
+    ├── Frontend/
+    │   ├── src/
+    │   ├── public/
+    │   ├── package.json
+    │   └── vite.config.js
+    ├── Backend/
+    └── README.md
 
 ---
 
